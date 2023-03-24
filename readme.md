@@ -5,5 +5,5 @@ I have developed UI from free code camp.
 HTML
 CSS
 
-#You can view the live project 
+ 
 
